@@ -20,7 +20,7 @@ El proyecto está desplegado en GitHub Pages y puedes acceder a él en el siguie
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
    
 ```
-git clone https://github.com/miusuario/technical-documentation-page.git
+git clone git@github.com:JeanLarez/technical-documentation-page.git
 ```
 
 1. Abre el archivo `index.html` en tu navegador web para ver la página de documentación técnica.
