@@ -2,10 +2,6 @@
 
 Este proyecto es parte de los desafíos requeridos por Free Code Camp para acceder a la certificación de Diseño Web Responsivo. Se trata de una página de Documentación Técnica. Todo el contenido se basa en conceptos básicos del lenguaje de programación JavaScript, obtenidos de MDN.
 
-## Contenido y Técnicas Utilizadas
-
-Este proyecto presenta una documentación técnica sobre HTML y CSS, los lenguajes fundamentales para el desarrollo web. Proporciona información detallada sobre conceptos básicos, estructura de documentos, estilos, diseño responsivo y más.
-
 ## Técnicas Utilizadas
 
 - **HTML5 y CSS3**: El proyecto utiliza HTML5 y CSS3 para la estructura y el diseño de la página.
@@ -22,11 +18,12 @@ Este proyecto es una maquetación del proyecto [documentación técnica](https:/
 El proyecto está desplegado en GitHub Pages y puedes acceder a él en el siguiente enlace: [technical-documentation-page](https://jeanlarez.github.io/technical-documentation-page/)
 
 1. Clona este repositorio en tu máquina local utilizando el siguiente comando:
-
+   
+```
 git clone https://github.com/miusuario/technical-documentation-page.git
+```
 
-
-2. Abre el archivo `index.html` en tu navegador web para ver la página de documentación técnica.
+1. Abre el archivo `index.html` en tu navegador web para ver la página de documentación técnica.
 
 ## Contribuciones
 
